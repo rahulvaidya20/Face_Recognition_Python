@@ -1,5 +1,5 @@
 # Face_Recognition_Python
-Face Recognition in Python using OpenCV
+Face Recognition in Python using OpenCV 3
 
 There are 3 files:
 
